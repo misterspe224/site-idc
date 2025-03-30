@@ -22,7 +22,7 @@ const ProjectCard = ({
 
   return (
     <div 
-      className="project-card cursor-pointer"
+      className="project-card group cursor-pointer"
       onClick={onClick}
     >
       <div className="aspect-square overflow-hidden">
