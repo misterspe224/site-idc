@@ -134,13 +134,15 @@
   
   /* Fix: Separate the group utility from @apply */
   .project-card {
-    @apply relative overflow-hidden rounded-lg shadow-md;
+    @apply relative overflow-hidden rounded-lg;
   }
   
   /* The group class should be applied directly in the HTML/JSX */
   
   .project-overlay {
-    @apply absolute inset-0 bg-idc-navy/80 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-center items-center text-white p-6;
+    @apply absolute inset-0 bg-idc-navy/80 opacity-0 group-hover:opacity-100 transition-all duration-300 
+           flex flex-col justify-center items-center text-white p-6 
+           transform group-hover:scale-100 scale-105;
   }
   
   .navbar-link {
