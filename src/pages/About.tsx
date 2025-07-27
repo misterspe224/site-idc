@@ -172,6 +172,11 @@ const About = () => {
               <p className="text-gray-600">
                 Devenir le leader de référence dans le secteur de la construction et des infrastructures en Afrique de l'Ouest, 
                 reconnu pour son excellence technique, son approche durable et son impact positif sur les communautés.
+
+                Devenir le leader incontournable des solutions innovantes et durables dans le secteur de la construction et des travaux, 
+                en alliant expertise internationale et excellence locale pour créer un impact positif et durable sur les infrastructures 
+                et les communautés. Nous aspirons à devenir un acteur clé reconnu pour notre capacité à transformer des concepts ambitieux 
+                en réalités tangibles qui stimulent la croissance économique et répondent aux enjeux sociétaux de demain.
               </p>
             </div>
           </div>
