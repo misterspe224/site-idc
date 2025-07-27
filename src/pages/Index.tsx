@@ -119,7 +119,7 @@ const Home = () => {
           <h2 className="section-title mb-10">Nos Services</h2>
           <p className="max-w-3xl mx-auto text-gray-600">
             IDC Consulting SARL offre une gamme complète de services en construction et infrastructures, 
-            avec une expertise reconnue et des solutions adaptées aux besoins spécifiques de l'Afrique de l'Ouest.
+            avec une expertise reconnue et des solutions adaptées aux besoins spécifiques de nos clients.
           </p>
         </div>
 
