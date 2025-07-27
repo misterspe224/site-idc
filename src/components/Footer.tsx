@@ -61,12 +61,15 @@ const Footer = () => {
               </div>
               <div className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 text-idc-gold" />
-                <span className="text-sm">+224 12 345 678</span>
+                <div className="text-sm">
+                  <div>+224 622 61 32 18</div>
+                  <div>+224 627 90 90 90</div>
+                </div>
               </div>
               <div className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-idc-gold" />
-                <a href="mailto:contact@idcconsulting.com" className="text-sm hover:text-idc-gold transition-colors">
-                  contact@idcconsulting.com
+                <a href="mailto:contact@idcconsultinguinee.com" className="text-sm hover:text-idc-gold transition-colors">
+                  contact@idcconsultinguinee.com
                 </a>
               </div>
             </div>

@@ -17,16 +17,15 @@ const Contact = () => {
       icon: <Phone className="h-6 w-6" />,
       title: "Téléphone",
       details: [
-        "+224 12 345 678 (Guinée)",
-        "+232 98 765 432 (Sierra Leone)"
+        "+224 622 61 32 18",
+        "+224 627 90 90 90"
       ]
     },
     {
       icon: <Mail className="h-6 w-6" />,
       title: "Email",
       details: [
-        "contact@idcconsulting.com",
-        "info@idcconsulting.com"
+        "contact@idcconsultinguinee.com"
       ]
     },
     {
