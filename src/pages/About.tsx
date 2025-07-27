@@ -144,7 +144,7 @@ const About = () => {
             <img 
               src="/lovable-uploads/09060470-f492-4484-9b58-d6f0649d9d65.png" 
               alt="Ouvriers IDC sur chantier"
-              className="rounded-lg shadow-lg h-48 w-full object-cover"
+              className="rounded-lg shadow-lg h-48 w-full object-cover object-bottom"
             />
           </div>
         </div>
