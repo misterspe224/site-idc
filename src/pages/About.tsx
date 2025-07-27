@@ -161,9 +161,8 @@ const About = () => {
             <div className="bg-white p-8 rounded-lg shadow-lg">
               <h3 className="text-2xl font-bold text-idc-navy mb-4">Notre Mission</h3>
               <p className="text-gray-600">
-                Fournir des solutions de construction et d'infrastructures innovantes, durables et de haute qualité 
-                qui répondent aux besoins spécifiques de l'Afrique de l'Ouest, tout en contribuant au développement 
-                économique et social de la région.
+                Construire aujourd'hui pour façonner un avenir durable et moderne en fournissant des services 
+                et de conseil de haute qualité.
               </p>
             </div>
 
