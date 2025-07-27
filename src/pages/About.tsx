@@ -186,7 +186,7 @@ const About = () => {
           <p className="max-w-3xl mx-auto text-gray-600">
             Nos valeurs sont au cœur de tout ce que nous faisons. Elles guident nos décisions, 
             façonnent notre culture d'entreprise et définissent notre approche des projets.
-            \n• Excellence - Innovation - Intégrité - Durabilité - Engagement communautaire - Sécurité •
+            • Excellence - Innovation - Intégrité - Durabilité - Engagement communautaire - Sécurité •
           </p>
         </div>
 
