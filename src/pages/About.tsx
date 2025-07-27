@@ -31,7 +31,7 @@ const About = () => {
   // Milestones data
   const milestones = [
     {
-      year: "2008",
+      year: "2018",
       title: "Fondation",
       description: "Création d'IDC Consulting SARL à Conakry, Guinée."
     },
