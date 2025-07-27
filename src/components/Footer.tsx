@@ -17,7 +17,7 @@ const Footer = () => {
               className="h-16 invert" 
             />
             <p className="mt-4 text-sm text-gray-300">
-              IDC Consulting SARL est un acteur clé dans le secteur du BTP en Afrique de l'Ouest, 
+              IDC Consulting SARL est un acteur clé dans le secteur du BTP, 
               offrant des solutions innovantes et durables.
             </p>
           </div>
@@ -54,8 +54,9 @@ const Footer = () => {
               <div className="flex items-start">
                 <MapPin className="h-5 w-5 mr-2 text-idc-gold shrink-0 mt-0.5" />
                 <span className="text-sm">
-                  Conakry, Guinée<br />
-                  Freetown, Sierra Leone
+                  Kipé, Centre émetteur<br />
+                  Commune de Ratoma<br />
+                  Conakry, République de Guinée
                 </span>
               </div>
               <div className="flex items-center">
