@@ -7,7 +7,7 @@ const Services = () => {
     {
       id: "buildings",
       title: "Bâtiments",
-      description: "Construction de bâtiments résidentiels, commerciaux et industriels avec un souci constant de qualité et d'innovation.",
+      description: "Construction de bâtiments résidentiels, commerciaux, publics et industriels avec un souci constant de qualité et d'innovation.",
       icon: <Building className="h-8 w-8" />,
       image: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&q=80&w=800",
       features: [
