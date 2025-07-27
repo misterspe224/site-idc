@@ -129,7 +129,7 @@ const About = () => {
             <img 
               src="/lovable-uploads/ce73bb97-7606-4980-8918-a615b2901c0e.png" 
               alt="Équipe dirigeante IDC Consulting"
-              className="rounded-lg shadow-lg h-48 w-full object-cover"
+              className="rounded-lg shadow-lg h-48 w-full object-cover object-top"
             />
             <img 
               src="/lovable-uploads/b1560255-7e81-49af-a9f9-e9506cca4eda.png" 
