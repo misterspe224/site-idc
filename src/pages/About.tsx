@@ -110,40 +110,40 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="section-title text-left mb-6">Notre Histoire</h2>
-            <p className="text-gray-600 mb-4">
-              Fondée en 2008 à Conakry, Guinée, IDC Consulting SARL est née de la vision de créer une entreprise 
-              de construction capable de répondre aux défis spécifiques de l'Afrique de l'Ouest tout en respectant 
-              les standards internationaux.
-            </p>
-            <p className="text-gray-600 mb-4">
-              Au fil des années, nous avons développé une expertise reconnue dans les domaines du bâtiment et des 
-              infrastructures, en menant à bien des projets d'envergure dans toute la région.
-            </p>
             <p className="text-gray-600">
-              Aujourd'hui, avec plus de 200 collaborateurs et une présence dans 12 pays d'Afrique de l'Ouest, 
-              IDC Consulting SARL s'impose comme un acteur incontournable du secteur, alliant savoir-faire technique, 
-              connaissance du terrain et approche innovante.
+              Fondée en mars 2018 par les experts en BTP Mohamed
+              Condé et N'Faly Konaté, IDC CONSULTING SARL est une
+              entreprise guinéenne spécialisée dans les technologies
+              innovantes dans le secteur des bâtiments et travaux
+              publics. Basée initialement à Conakry, elle s'est
+              développée à l'international en s'implantant à Freetown,
+              Sierra Leone. Forte de plusieurs années d'expérience, la
+              société a investi dans des équipements de pointe et
+              diversifié ses activités, incluant la construction de routes,
+              d'immeubles, l'aménagement de terrains agricoles, et
+              bien plus, tout en employant un personnel hautement
+              qualifié.
             </p>
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img 
-              src="https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&q=80&w=500" 
-              alt="Bureau IDC Consulting"
+              src="/lovable-uploads/ce73bb97-7606-4980-8918-a615b2901c0e.png" 
+              alt="Équipe dirigeante IDC Consulting"
               className="rounded-lg shadow-lg h-48 w-full object-cover"
             />
             <img 
-              src="https://images.unsplash.com/photo-1459767129954-1b1c1f9b9ace?auto=format&fit=crop&q=80&w=500" 
-              alt="Équipe sur chantier"
+              src="/lovable-uploads/b1560255-7e81-49af-a9f9-e9506cca4eda.png" 
+              alt="Construction d'immeuble en cours"
               className="rounded-lg shadow-lg h-48 w-full object-cover"
             />
             <img 
-              src="https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&q=80&w=500" 
-              alt="Réalisation IDC"
+              src="/lovable-uploads/2a1672e9-0d8c-4321-9dfc-95f73513e59e.png" 
+              alt="Structure métallique et ouvriers"
               className="rounded-lg shadow-lg h-48 w-full object-cover"
             />
             <img 
-              src="https://images.unsplash.com/photo-1496307653780-42ee777d4833?auto=format&fit=crop&q=80&w=500" 
-              alt="Infrastructure"
+              src="/lovable-uploads/09060470-f492-4484-9b58-d6f0649d9d65.png" 
+              alt="Ouvriers IDC sur chantier"
               className="rounded-lg shadow-lg h-48 w-full object-cover"
             />
           </div>
