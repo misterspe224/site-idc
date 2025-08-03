@@ -15,7 +15,7 @@ const Home = () => {
       description: "Construction résidentielle, commerciale et industrielle avec des standards de qualité internationaux.",
       icon: <Building size={24} />,
       link: "/services",
-      image: "/lovable-uploads/e49336d6-a377-47f3-9c68-f0eae65792a2.png"
+      image: "/lovable-uploads/23fa64ae-3e8a-4ff1-93b4-01b02aeab853.png"
     },
     {
       title: "Infrastructures Routières",
