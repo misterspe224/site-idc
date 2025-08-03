@@ -15,28 +15,28 @@ const Home = () => {
       description: "Construction résidentielle, commerciale et industrielle avec des standards de qualité internationaux.",
       icon: <Building size={24} />,
       link: "/services",
-      image: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&q=80&w=800"
+      image: "/lovable-uploads/e49336d6-a377-47f3-9c68-f0eae65792a2.png"
     },
     {
       title: "Infrastructures Routières",
       description: "Construction et réhabilitation de routes, ponts et ouvrages d'art pour améliorer la mobilité.",
       icon: <Building size={24} />,
       link: "/services",
-      image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=800"
+      image: "/lovable-uploads/a7b73e52-43f9-418f-b6da-fc3c6976c378.png"
     },
     {
       title: "Infrastructures Agricoles",
       description: "Aménagements hydro-agricoles, barrages et systèmes d'irrigation pour le développement rural.",
       icon: <Building size={24} />,
       link: "/services",
-      image: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&q=80&w=800"
+      image: "/lovable-uploads/140ac21b-0b5d-4b0d-9914-b8ab7bd14265.png"
     },
     {
       title: "Conseils et Expertises",
       description: "Services de consultance technique, études de faisabilité et supervision de projets.",
       icon: <Building size={24} />,
       link: "/services",
-      image: "https://images.unsplash.com/photo-1496307653780-42ee777d4833?auto=format&fit=crop&q=80&w=800"
+      image: "/lovable-uploads/2e819330-59e8-4106-bb1c-4a0e02897bfe.png"
     }
   ];
 
