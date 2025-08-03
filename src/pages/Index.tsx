@@ -110,7 +110,7 @@ const Home = () => {
       <Hero 
         title="Construire aujourd'hui pour façonner demain"
         subtitle="Solutions innovantes en construction et infrastructures de tout genre."
-        backgroundImage="https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&q=80&w=1800"
+        backgroundImage="/lovable-uploads/32260c6c-4d79-41b4-b72f-ef03e6ba0844.png"
       />
 
       {/* Services Section */}
