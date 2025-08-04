@@ -166,7 +166,7 @@ const Home = () => {
             <div className="relative">
               <div className="absolute -top-4 -left-4 w-24 h-24 bg-idc-gold rounded-tl-lg z-0"></div>
               <img 
-                src="https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&q=80&w=800" 
+                src="/lovable-uploads/1890977c-279d-42c8-83b1-b6ca48fb5935.png" 
                 alt="Notre équipe"
                 className="relative z-10 rounded-lg shadow-lg w-full"
               />
